@@ -117,10 +117,12 @@ This project aims to preserve and share these games with a new generation.
 ---
 
 ## 📸 Screenshots
-![Punarutthaan](demo_images/Punarutthaan_1.png)
-![Punarutthaan](demo_images/Punarutthaan_2.png)
-![Punarutthaan](demo_images/Punarutthaan_3.png)
-![Punarutthaan](demo_images/Punarutthaan_4.png)
+
+| | |
+|---|---|
+| ![Punarutthaan](demo_images/Punarutthaan_1.png) | ![Punarutthaan](demo_images/Punarutthaan_2.png) |
+| ![Punarutthaan](demo_images/Punarutthaan_3.png) | ![Punarutthaan](demo_images/Punarutthaan_4.png) |
+
 
 > Launch the main menu and click any game to play. Each game card includes in-app **Rules** and **History** pages.
 
